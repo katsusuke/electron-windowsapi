@@ -18,6 +18,7 @@
   "homepage": "https://github.com/katsusuke/electron_practice#readme",
   "dependencies": {
     "electron": "^0.4.1",
-    "electron-prebuilt": "^1.2.0"
+    "electron-prebuilt": "^1.2.0",
+    "ffi": "^2.0.0"
   }
 }
