@@ -22,6 +22,7 @@
     "ffi": "^2.0.0"
   },
   "devDependencies": {
+    "electron-packager": "^7.0.2",
     "electron-rebuild": "^1.1.5"
   }
 }
