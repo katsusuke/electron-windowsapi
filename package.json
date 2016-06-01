@@ -18,11 +18,11 @@
   "homepage": "https://github.com/katsusuke/electron_practice#readme",
   "dependencies": {
     "electron": "^0.4.1",
-    "electron-prebuilt": "^1.2.0",
     "ffi": "^2.0.0"
   },
   "devDependencies": {
     "electron-packager": "^7.0.2",
+    "electron-prebuilt": "^1.2.0",
     "electron-rebuild": "^1.1.5"
   }
 }
